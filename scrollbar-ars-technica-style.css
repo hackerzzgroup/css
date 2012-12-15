@@ -40,9 +40,3 @@
     height: 6px !important;
     min-height: 5px !important;
 }
-
-@-moz-document regexp("https?:\\/\\/www.google\\..*\\/"), regexp("https?:\\/\\/www.google\\..*\\/webhp.*"), regexp("https?:\\/\\/google\\..*\\/"), regexp("https?:\\/\\/google\\..*\\/webhp.*"), regexp("https?:\\/\\/images.google\\..*\\/"), regexp("https?:\\/\\/images.google\\..*\\/imghp.*"), regexp("https?:\\/\\/www.google\\..*\\/imghp.*"), regexp("https?:\\/\\/google\\..*\\/imghp") {
-body {
-    overflow-y: hidden;
-}
-}
