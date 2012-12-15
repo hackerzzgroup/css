@@ -1,0 +1,4 @@
+@-moz-document domain("google.com") {
+#gbi4t { opacity: 0; }
+#gbi4t:hover { opacity: 1; }
+}

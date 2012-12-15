@@ -1,0 +1,12 @@
+@-moz-document domain("z0r.de") {
+.adb { display: none; }
+}
+
+@-moz-document domain("worldofgnome.org") {
+.ads-alt-300 {
+    display: none;
+}
+#sidebar {
+    top: 66px;
+}
+}

@@ -1,0 +1,11 @@
+@-moz-document domain("google.com") {
+ul.lcdl li.tbos {
+    opacity: 0;
+    background: #eeeeee;
+}
+
+ul.lcdl li.tbos:hover {
+    opacity: 1;
+    
+}
+}

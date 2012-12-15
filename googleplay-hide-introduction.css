@@ -1,0 +1,3 @@
+@-moz-document domain("play.google.com") {
+.merch-bar-container { display: none; }
+}

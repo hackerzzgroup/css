@@ -1,0 +1,3 @@
+@-moz-document domain("google.com") {
+.pmoabs, #pushdown { display: none; }
+}
