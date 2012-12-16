@@ -1,11 +1,12 @@
 @-moz-document domain("youtube.com") {
-#masthead-user-bar-container {
+#masthead-user-bar-container,#yt-masthead-user-displayname {
     -webkit-transition: .2s;
-    opacity: 0.1;
+    opacity: 0;
 }
 
-#masthead-user-bar-container:hover {
+#masthead-user-bar-container:hover,#yt-masthead-user-displayname:hover {
     -webkit-transition: .2s;
     opacity: 1;
 }
 }
+    
